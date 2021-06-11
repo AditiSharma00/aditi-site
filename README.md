@@ -1,2 +1,1 @@
-# aditi-portfolio
- a demo website to showcase mty portfolio
+Hey! Welcome to my portfolio .It will be ready in few days.
